@@ -7,7 +7,7 @@
 // 1. CONFIGURACIÓN GENERAL Y CONSTANTES
 // ==========================================
 // Reemplazar únicamente este número por el oficial (incluyendo código de país, ej: "51987654321")
-const NUMERO_WHATSAPP = "51000000000"; 
+const NUMERO_WHATSAPP = "51926188842"; 
 
 const CONFIG = {
   LS_CART_KEY: "mar_y_flor_cart_v1",
